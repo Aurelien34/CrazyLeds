@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyLeds", "CrazyLeds\CrazyLeds.csproj", "{3C1E6CD0-41CA-4D67-B65E-902343A8EF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyLedsExport", "CrazyLedsExport\CrazyLedsExport.csproj", "{E259DA07-5201-4245-9E48-307F08E0EFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyLedsExportFolder", "CrazyLedsExportFolder\CrazyLedsExportFolder.csproj", "{B198B0CB-1459-4CB6-A969-8CE2C5B00D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1E6CD0-41CA-4D67-B65E-902343A8EF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1E6CD0-41CA-4D67-B65E-902343A8EF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1E6CD0-41CA-4D67-B65E-902343A8EF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1E6CD0-41CA-4D67-B65E-902343A8EF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E259DA07-5201-4245-9E48-307F08E0EFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E259DA07-5201-4245-9E48-307F08E0EFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E259DA07-5201-4245-9E48-307F08E0EFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E259DA07-5201-4245-9E48-307F08E0EFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B198B0CB-1459-4CB6-A969-8CE2C5B00D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B198B0CB-1459-4CB6-A969-8CE2C5B00D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B198B0CB-1459-4CB6-A969-8CE2C5B00D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B198B0CB-1459-4CB6-A969-8CE2C5B00D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
